@@ -9,3 +9,5 @@ comment
 console.log("Ernesto");
 
 console.log("chilaquiles");
+
+console.log("Supercalifragilisticexpialidocious".length);
